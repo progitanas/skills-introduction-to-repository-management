@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @progitanas
+/src/backend/database.py      @progitanas
+/src/backend/routers/auth.py  @progitanas
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @progitanas
